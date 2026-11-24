@@ -1,0 +1,16 @@
+name: Attack idea
+description: Something the website should catch that keylime doesn't try yet.
+labels: [attack idea]
+body:
+  - type: textarea
+    id: change
+    attributes:
+      label: What the attack changes
+      description: Which part of the sign-in it edits, and how.
+    validations:
+      required: true
+  - type: textarea
+    id: caught
+    attributes:
+      label: What should catch it
+      description: The check or spec rule that rejects it, with a link if you have one.

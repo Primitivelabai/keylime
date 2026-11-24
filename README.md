@@ -46,6 +46,10 @@ Passkeys are bound to the domain. One made on `localhost` won't work on a deploy
 
 The WebAuthn code lives in `src/lib`; the screens are in `src/components`.
 
+## Contribute
+
+Attack ideas, new algorithms and clearer words are all welcome. Start with [CONTRIBUTING.md](CONTRIBUTING.md), or pick a [good first issue](https://github.com/Primitivelabai/keylime/labels/good%20first%20issue).
+
 ## Licence
 
 MIT. Made in Perth by primitive, as part of punnet playground.
